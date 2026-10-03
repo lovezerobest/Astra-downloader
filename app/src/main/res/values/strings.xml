@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AstraDownloader</string>
+    <string name="a11y_desc">开启后，即使星流下载器在后台，复制网盘分享链接或下载直链也能被自动识别并弹出星河岛卡片。</string>
+</resources>
